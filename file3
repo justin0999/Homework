@@ -1,1 +1,4 @@
-This is file 3 in main branch with different content
+<<<<<<< HEAD
+This is file 3 in the new branch
+=======
+>>>>>>> main
